@@ -13,7 +13,7 @@
 #             print("je to rovnoramenny troj.", end=(""))
 # #ako vypisovat premenne:
 S=100
-#print("Area/obsah je",S)
+#rint("Area/obsah je",S)
 #print("Area/obsah je" +str(S))
 #print("Area/obsah je %d",S)
 #print(f"Area/obsah je {S}")
