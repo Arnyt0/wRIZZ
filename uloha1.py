@@ -12,7 +12,7 @@
 #         if (a==b) or (b==c) or (a==c):
 #             print("je to rovnoramenny troj.", end=(""))
 # #ako vypisovat premenne:
-#S=100
+S=100
 #print("Area/obsah je",S)
 #print("Area/obsah je" +str(S))
 #print("Area/obsah je %d",S)
